@@ -1,0 +1,20 @@
+button {
+   color: black;
+   background-color: red; 
+   width: 150px;
+   height: 150px;
+   font-size: 30px;
+}
+
+h2 {
+  color: green;
+  text-align: center;
+}
+
+html {
+  font-family: cursive;
+}
+
+body {
+  padding: 0 70px 70px 70px;
+}
